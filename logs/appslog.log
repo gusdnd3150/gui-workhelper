@@ -1,0 +1,12 @@
+2025-04-29 13:24:17,145 - INFO - MainThread - application start
+2025-04-29 13:24:17,270 - INFO - MainThread - application start
+2025-04-29 13:24:17,270 - INFO - MainThread - IndoTap init
+2025-04-29 13:24:17,270 - INFO - MainThread - IndoTap setEvent
+2025-04-29 13:24:17,270 - INFO - MainThread - JobSetting init
+2025-04-29 13:24:17,271 - INFO - MainThread - JobSetting setEvent
+2025-04-29 13:25:35,918 - INFO - MainThread - application start
+2025-04-29 13:25:35,999 - INFO - MainThread - application start
+2025-04-29 13:25:35,999 - INFO - MainThread - IndoTap init
+2025-04-29 13:25:35,999 - INFO - MainThread - IndoTap setEvent
+2025-04-29 13:25:35,999 - INFO - MainThread - JobSetting init
+2025-04-29 13:25:35,999 - INFO - MainThread - JobSetting setEvent
