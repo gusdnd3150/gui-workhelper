@@ -22,3 +22,15 @@
 2025-07-17 11:14:40,740 - INFO - MainThread - IndoTap setEvent
 2025-07-17 11:14:40,740 - INFO - MainThread - JobSetting init
 2025-07-17 11:14:40,740 - INFO - MainThread - JobSetting setEvent
+2025-07-17 15:03:03,710 - INFO - MainThread - application start
+2025-07-17 15:03:03,831 - INFO - MainThread - application start
+2025-07-17 15:03:03,831 - INFO - MainThread - IndoTap init
+2025-07-17 15:03:03,831 - INFO - MainThread - IndoTap setEvent
+2025-07-17 15:03:03,831 - INFO - MainThread - JobSetting init
+2025-07-17 15:03:03,832 - INFO - MainThread - JobSetting setEvent
+2025-07-23 15:41:59,378 - INFO - MainThread - application start
+2025-07-23 15:41:59,508 - INFO - MainThread - application start
+2025-07-23 15:41:59,508 - INFO - MainThread - IndoTap init
+2025-07-23 15:41:59,508 - INFO - MainThread - IndoTap setEvent
+2025-07-23 15:41:59,508 - INFO - MainThread - JobSetting init
+2025-07-23 15:41:59,509 - INFO - MainThread - JobSetting setEvent
