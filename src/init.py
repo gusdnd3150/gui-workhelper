@@ -52,11 +52,6 @@ class InitClass(QMainWindow):
 
 
 
-
-
-
-
-
     def bindData(self):
         print('')
         # list = moduleData.setCombos()

@@ -34,3 +34,9 @@
 2025-07-23 15:41:59,508 - INFO - MainThread - IndoTap setEvent
 2025-07-23 15:41:59,508 - INFO - MainThread - JobSetting init
 2025-07-23 15:41:59,509 - INFO - MainThread - JobSetting setEvent
+2025-08-05 07:56:54,612 - INFO - MainThread - application start
+2025-08-05 07:56:54,836 - INFO - MainThread - application start
+2025-08-05 07:56:54,836 - INFO - MainThread - IndoTap init
+2025-08-05 07:56:54,837 - INFO - MainThread - IndoTap setEvent
+2025-08-05 07:56:54,837 - INFO - MainThread - JobSetting init
+2025-08-05 07:56:54,839 - INFO - MainThread - JobSetting setEvent
